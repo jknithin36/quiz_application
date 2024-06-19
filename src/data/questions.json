@@ -1,0 +1,169 @@
+{
+  "questions": [
+    {
+      "question": "What is the difference between 'let' and 'var' in JavaScript?",
+      "options": [
+        "'let' is block-scoped and 'var' is function-scoped",
+        "'let' can be reassigned and 'var' cannot",
+        "'let' is function-scoped and 'var' is block-scoped",
+        "There is no difference"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the purpose of JavaScript's 'strict mode'?",
+      "options": [
+        "To enable modern JavaScript features",
+        "To prevent the use of deprecated features",
+        "To enforce stricter parsing and error handling in your code",
+        "To optimize the performance of your code"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is a JavaScript closure?",
+      "options": [
+        "A function that is used to close a program",
+        "A function that has access to its own scope, the scope of the outer function, and the global scope",
+        "A function that only has access to its own scope and the global scope",
+        "A function that returns another function"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is hoisting in JavaScript?",
+      "options": [
+        "A mechanism where variables and function declarations are moved to the top of their scope before code execution",
+        "A mechanism to improve performance by optimizing code",
+        "A method of managing variable scope",
+        "A way to handle asynchronous operations"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the difference between '==' and '===' in JavaScript?",
+      "options": [
+        "'==' checks for equality and '===' checks for inequality",
+        "'==' checks for value equality and '===' checks for both value and type equality",
+        "'==' checks for both value and type equality and '===' checks for value equality only",
+        "There is no difference"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the event loop in JavaScript?",
+      "options": [
+        "A function that loops through events in the DOM",
+        "A process that allows JavaScript to perform asynchronous operations",
+        "A method to iterate over array elements",
+        "A way to handle events in synchronous code"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the purpose of the 'Promise' object in JavaScript?",
+      "options": [
+        "To manage multiple functions",
+        "To handle synchronous operations",
+        "To represent the eventual completion (or failure) of an asynchronous operation and its resulting value",
+        "To loop through an array of asynchronous operations"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What does the 'bind()' method do in JavaScript?",
+      "options": [
+        "Binds an event to an HTML element",
+        "Creates a new function that, when called, has its 'this' keyword set to the provided value",
+        "Creates a copy of an object",
+        "Combines two or more functions"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the difference between 'undefined' and 'null' in JavaScript?",
+      "options": [
+        "'undefined' is a type and 'null' is an object",
+        "'undefined' is a value and 'null' is a type",
+        "'undefined' means a variable has not been declared and 'null' means a variable has no value",
+        "'undefined' means a variable has been declared but has no value assigned, while 'null' is an assignment value representing no value"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What is the purpose of the 'async/await' keywords in JavaScript?",
+      "options": [
+        "To enable synchronous execution of asynchronous code",
+        "To simplify promise chaining and make asynchronous code look synchronous",
+        "To improve the performance of asynchronous code",
+        "To make error handling easier in synchronous code"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is a higher-order function in JavaScript?",
+      "options": [
+        "A function that can operate at higher levels of the DOM",
+        "A function that returns another function or takes one or more functions as arguments",
+        "A function that has access to higher scopes",
+        "A function that runs with higher priority"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What does the 'spread' operator do in JavaScript?",
+      "options": [
+        "It spreads out the elements of an array into individual elements",
+        "It copies an object into another object",
+        "It combines multiple arrays into one",
+        "It allows adding new properties to an existing object"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the 'this' keyword in JavaScript?",
+      "options": [
+        "It refers to the current function",
+        "It refers to the global object",
+        "It refers to the object from which the function was called",
+        "It refers to the previous scope"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the purpose of the 'prototype' property in JavaScript?",
+      "options": [
+        "To define properties and methods for a specific object",
+        "To inherit properties and methods from another object",
+        "To add new properties and methods to an existing object type",
+        "To create a new instance of an object"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What does the 'call()' method do in JavaScript?",
+      "options": [
+        "Calls a function with a specified 'this' value and arguments provided individually",
+        "Calls a function after a specified delay",
+        "Calls a method from another object",
+        "Calls an API endpoint"
+      ],
+      "correctOption": 0,
+      "points": 10
+    }
+  ]
+}
